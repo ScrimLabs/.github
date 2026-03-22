@@ -116,7 +116,7 @@ The other half of the dev team. When Probler builds the foundation, Enigma stres
  
 Planted the initial seed that became ScrimLabs. Sometimes all it takes is one person to say "this should exist" to set everything in motion.
  
-**Role:** Original Vision, Early Support
+**Role:** Founder, visionary, Scout, Connector
  
 </td>
 </tr>
