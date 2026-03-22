@@ -104,7 +104,7 @@ The driving force behind ScrimLabs. While others talked about what competitive g
 The other half of the dev team. When Probler builds the foundation, Enigma stress-tests it until it breaks—then helps rebuild it stronger. Late-night debugging sessions, feature brainstorms, and code reviews that actually make things better. ScrimLabs isn't a solo project; it's a partnership, and Enigma is the teammate everyone wishes they had.
 
  
-**Role:** Co-Founder, Developer, Code Quality, The Other 2am Coder
+**Role:** Founder, Teach Lead, Developer, Code Quality, The Other 2am Coder
  
 </td>
 <td align="center" width="33%">
