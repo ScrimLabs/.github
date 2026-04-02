@@ -2,9 +2,9 @@
 
 # ScrimLabs
 
-<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Logo%20Small.png" style="display:block" alt="ScrimLabs Logo" width="200"/>
-
-<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Wordmark%20WhiteBlue.png" style="display:block" alt="ScrimLabs Logo" width="300"/>
+<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Logo%20Small.png" alt="ScrimLabs Logo" width="200"/>
+<br><br>
+<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Wordmark%20WhiteBlue.png" alt="ScrimLabs Logo" width="300"/>
 
 ### **Where Competitive Gaming Gets Scientific**
 
