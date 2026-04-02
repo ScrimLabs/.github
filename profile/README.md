@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Wordmark%20White.png" alt="ScrimLabs" width="300"/>
+# ScrimLabs
 
 <img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Logo%20Small.png" alt="ScrimLabs Logo" width="200"/>
 
