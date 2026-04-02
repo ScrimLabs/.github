@@ -2,7 +2,7 @@
 
 # 🎮 SCRIM LABS
 
-<img src="" alt="ScrimLabs Logo" width="200"/>
+<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Logo%20Small.png" alt="ScrimLabs Logo" width="200"/>
 
 ### **Where Competitive Gaming Gets Scientific**
 
