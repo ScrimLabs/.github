@@ -96,8 +96,8 @@ The driving force behind ScrimLabs. While others talked about what competitive g
 </td>
 <td align="center" width="33%">
  
-### 🔮 Enigma
-**The Engineer**
+### 🔮 ENIGMA
+**The Architect**
 
 "If it's not automated, it's not finished."
 
