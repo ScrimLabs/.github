@@ -4,6 +4,8 @@
 
 <img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Logo%20Small.png" alt="ScrimLabs Logo" width="200"/>
 
+<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Wordmark%20WhiteBlue.png" alt="ScrimLabs Logo" width="300"/>
+
 ### **Where Competitive Gaming Gets Scientific**
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3VredC7caW)
