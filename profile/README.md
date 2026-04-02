@@ -1,10 +1,8 @@
 <div align="center">
 
-# ScrimLabs
-
-<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Logo%20Small.png" alt="ScrimLabs Logo" width="200"/>
+<a href="https://scrimlabs.com" target="_blank"><img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Logo%20Small.png" href='' alt="ScrimLabs Logo" width="200"/></a>
 <br><br>
-<img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Wordmark%20WhiteBlue.png" alt="ScrimLabs Logo" width="300"/>
+<a href="https://scrimlabs.com" target="_blank"><img src="https://scrimlabs.com/assets/brand/ScrimLabs%20Wordmark%20WhiteBlue.png" alt="ScrimLabs Logo" width="300"/></a>
 
 ### **Where Competitive Gaming Gets Scientific**
 
